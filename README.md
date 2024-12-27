@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚I am currently creating management systems for NGOs and small businesses</p>
+<p align="left">✨ Creating bugs since 2018<br>📚I am currently creating management systems for NGOs</p>
 
 ###
 
